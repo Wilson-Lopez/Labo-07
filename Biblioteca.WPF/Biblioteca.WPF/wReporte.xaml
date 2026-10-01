@@ -1,0 +1,65 @@
+﻿<Window x:Class="Biblioteca.WPF.wReporte"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Reporte de Préstamos por Fechas" Height="620" Width="1050"
+        WindowStartupLocation="CenterOwner"
+        Loaded="Window_Loaded">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Rango de fechas -->
+        <GroupBox Grid.Row="0" Header="Intervalo de fechas" Padding="10">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+
+                <TextBlock Grid.Column="0" Text="Desde:" VerticalAlignment="Center" Margin="0,0,8,0"/>
+                <DatePicker Grid.Column="1" x:Name="dpDesde" Margin="0,0,15,0"/>
+
+                <TextBlock Grid.Column="2" Text="Hasta:" VerticalAlignment="Center" Margin="0,0,8,0"/>
+                <DatePicker Grid.Column="3" x:Name="dpHasta" Margin="0,0,15,0"/>
+
+                <Button Grid.Column="4" Content="Generar reporte" Width="140" Height="28"
+                        FontWeight="Bold" Click="BtnGenerar_Click"/>
+
+                <Button Grid.Column="5" Content="Exportar CSV" Width="120" Height="28"
+                        Margin="8,0,0,0" Click="BtnExportar_Click"/>
+            </Grid>
+        </GroupBox>
+
+        <!-- Resumen -->
+        <Border Grid.Row="1" Margin="0,10,0,0" Padding="8" Background="#EEF3FA" 
+                BorderBrush="#B8C7DA" BorderThickness="1" CornerRadius="3">
+            <TextBlock x:Name="lblResumen" FontWeight="Bold" Foreground="DarkBlue"
+                       Text="Sin datos. Seleccione un rango y presione 'Generar reporte'."/>
+        </Border>
+
+        <!-- DataGrid -->
+        <DataGrid Grid.Row="2" x:Name="dgReporte" Margin="0,10,0,0"
+                  AutoGenerateColumns="False" IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Préstamo"     Binding="{Binding PrestamoId}"    Width="80"/>
+                <DataGridTextColumn Header="Socio"        Binding="{Binding NombreSocio}"   Width="180"/>
+                <DataGridTextColumn Header="Libro"        Binding="{Binding TituloLibro}"   Width="*"/>
+                <DataGridTextColumn Header="Autor"        Binding="{Binding NombreAutor}"   Width="180"/>
+                <DataGridTextColumn Header="F. Límite"    
+                                    Binding="{Binding FechaLimite, StringFormat=dd/MM/yyyy}" 
+                                    Width="100"/>
+                <DataGridTextColumn Header="F. Devolución" 
+                                    Binding="{Binding FechaDevolucion, StringFormat=dd/MM/yyyy, TargetNullValue='—'}" 
+                                    Width="110"/>
+                <DataGridTextColumn Header="Estado"       Binding="{Binding Estado}"        Width="100"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

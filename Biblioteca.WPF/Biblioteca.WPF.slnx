@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Biblioteca.Datos/Biblioteca.Datos.csproj" Id="b6981aed-e290-4ac3-a09a-7490869d4f19" />
+  <Project Path="Biblioteca.Entidades/Biblioteca.Entidades.csproj" Id="12d55fca-961d-4c46-8a08-310789f5f1d4" />
+  <Project Path="Biblioteca.Negocio/Biblioteca.Negocio.csproj" Id="2943979e-d18d-4c14-a9ff-113e9b502769" />
+  <Project Path="Biblioteca.WPF/Biblioteca.WPF.csproj" Id="238b24b2-2615-4665-84e4-be6af351b0b4" />
+</Solution>

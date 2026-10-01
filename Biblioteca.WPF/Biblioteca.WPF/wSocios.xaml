@@ -1,0 +1,67 @@
+﻿<Window x:Class="Biblioteca.WPF.wSocios"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Mantenimiento de Socios" Height="620" Width="900"
+        WindowStartupLocation="CenterOwner"
+        Loaded="Window_Loaded">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Barra de búsqueda -->
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="0,0,0,10">
+            <TextBlock Text="Buscar por nombre o DNI:" VerticalAlignment="Center" Margin="0,0,8,0"/>
+            <TextBox x:Name="txtFiltro" Width="320" Margin="0,0,8,0" VerticalContentAlignment="Center"/>
+            <Button Content="Buscar" Width="100" Click="BtnBuscar_Click"/>
+            <Button Content="Ver todos" Width="100" Margin="8,0,0,0" Click="BtnTodos_Click"/>
+        </StackPanel>
+
+        <!-- DataGrid -->
+        <DataGrid Grid.Row="1" x:Name="dgSocios" AutoGenerateColumns="False"
+                  IsReadOnly="True" SelectionMode="Single"
+                  SelectionChanged="DgSocios_SelectionChanged">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID"     Binding="{Binding SocioId}" Width="50"/>
+                <DataGridTextColumn Header="DNI"    Binding="{Binding DNI}"     Width="120"/>
+                <DataGridTextColumn Header="Nombre" Binding="{Binding Nombre}"  Width="*"/>
+                <DataGridTextColumn Header="Email"  Binding="{Binding Email}"   Width="250"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <!-- Formulario -->
+        <GroupBox Grid.Row="2" Header="Datos del socio" Margin="0,10,0,0" Padding="10">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <TextBlock Grid.Row="0" Grid.Column="0" Text="DNI:"    VerticalAlignment="Center" Margin="0,5"/>
+                <TextBox   Grid.Row="0" Grid.Column="1" x:Name="txtDNI" Margin="5"/>
+
+                <TextBlock Grid.Row="0" Grid.Column="2" Text="Nombre:" VerticalAlignment="Center" Margin="10,5,0,5"/>
+                <TextBox   Grid.Row="0" Grid.Column="3" x:Name="txtNombre" Margin="5"/>
+
+                <TextBlock Grid.Row="1" Grid.Column="0" Text="Email:"  VerticalAlignment="Center" Margin="0,5"/>
+                <TextBox   Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="3" x:Name="txtEmail" Margin="5"/>
+
+                <StackPanel Grid.Row="2" Grid.ColumnSpan="4" Orientation="Horizontal"
+                            HorizontalAlignment="Right" Margin="0,10,0,0">
+                    <Button Content="Nuevo"    Width="100" Margin="5,0" Click="BtnNuevo_Click"/>
+                    <Button Content="Guardar"  Width="100" Margin="5,0" Click="BtnGuardar_Click"/>
+                    <Button Content="Eliminar" Width="100" Margin="5,0" Click="BtnEliminar_Click"/>
+                </StackPanel>
+            </Grid>
+        </GroupBox>
+    </Grid>
+</Window>

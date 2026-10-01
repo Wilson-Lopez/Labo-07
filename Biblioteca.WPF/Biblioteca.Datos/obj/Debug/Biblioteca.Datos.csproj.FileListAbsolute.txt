@@ -1,0 +1,9 @@
+C:\Users\wilso\Desktop\6 ciclo\labo07\Biblioteca.WPF\Biblioteca.Datos\bin\Debug\Biblioteca.Datos.dll
+C:\Users\wilso\Desktop\6 ciclo\labo07\Biblioteca.WPF\Biblioteca.Datos\bin\Debug\Biblioteca.Datos.pdb
+C:\Users\wilso\Desktop\6 ciclo\labo07\Biblioteca.WPF\Biblioteca.Datos\bin\Debug\Biblioteca.Entidades.dll
+C:\Users\wilso\Desktop\6 ciclo\labo07\Biblioteca.WPF\Biblioteca.Datos\bin\Debug\Biblioteca.Entidades.pdb
+C:\Users\wilso\Desktop\6 ciclo\labo07\Biblioteca.WPF\Biblioteca.Datos\obj\Debug\Biblioteca.Datos.csproj.AssemblyReference.cache
+C:\Users\wilso\Desktop\6 ciclo\labo07\Biblioteca.WPF\Biblioteca.Datos\obj\Debug\Biblioteca.Datos.csproj.CoreCompileInputs.cache
+C:\Users\wilso\Desktop\6 ciclo\labo07\Biblioteca.WPF\Biblioteca.Datos\obj\Debug\Bibliote.7016963B.Up2Date
+C:\Users\wilso\Desktop\6 ciclo\labo07\Biblioteca.WPF\Biblioteca.Datos\obj\Debug\Biblioteca.Datos.dll
+C:\Users\wilso\Desktop\6 ciclo\labo07\Biblioteca.WPF\Biblioteca.Datos\obj\Debug\Biblioteca.Datos.pdb

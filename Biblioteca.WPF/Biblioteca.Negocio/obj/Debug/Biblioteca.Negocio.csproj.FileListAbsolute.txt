@@ -1,0 +1,11 @@
+C:\Users\wilso\Desktop\6 ciclo\labo07\Biblioteca.WPF\Biblioteca.Negocio\bin\Debug\Biblioteca.Negocio.dll
+C:\Users\wilso\Desktop\6 ciclo\labo07\Biblioteca.WPF\Biblioteca.Negocio\bin\Debug\Biblioteca.Negocio.pdb
+C:\Users\wilso\Desktop\6 ciclo\labo07\Biblioteca.WPF\Biblioteca.Negocio\bin\Debug\Biblioteca.Datos.dll
+C:\Users\wilso\Desktop\6 ciclo\labo07\Biblioteca.WPF\Biblioteca.Negocio\bin\Debug\Biblioteca.Entidades.dll
+C:\Users\wilso\Desktop\6 ciclo\labo07\Biblioteca.WPF\Biblioteca.Negocio\bin\Debug\Biblioteca.Datos.pdb
+C:\Users\wilso\Desktop\6 ciclo\labo07\Biblioteca.WPF\Biblioteca.Negocio\bin\Debug\Biblioteca.Entidades.pdb
+C:\Users\wilso\Desktop\6 ciclo\labo07\Biblioteca.WPF\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.csproj.AssemblyReference.cache
+C:\Users\wilso\Desktop\6 ciclo\labo07\Biblioteca.WPF\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\wilso\Desktop\6 ciclo\labo07\Biblioteca.WPF\Biblioteca.Negocio\obj\Debug\Bibliote.A6043496.Up2Date
+C:\Users\wilso\Desktop\6 ciclo\labo07\Biblioteca.WPF\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.dll
+C:\Users\wilso\Desktop\6 ciclo\labo07\Biblioteca.WPF\Biblioteca.Negocio\obj\Debug\Biblioteca.Negocio.pdb

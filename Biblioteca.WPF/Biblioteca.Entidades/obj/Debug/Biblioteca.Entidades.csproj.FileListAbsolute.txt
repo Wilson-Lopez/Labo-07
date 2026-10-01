@@ -1,0 +1,6 @@
+C:\Users\wilso\Desktop\6 ciclo\labo07\Biblioteca.WPF\Biblioteca.Entidades\bin\Debug\Biblioteca.Entidades.dll
+C:\Users\wilso\Desktop\6 ciclo\labo07\Biblioteca.WPF\Biblioteca.Entidades\bin\Debug\Biblioteca.Entidades.pdb
+C:\Users\wilso\Desktop\6 ciclo\labo07\Biblioteca.WPF\Biblioteca.Entidades\obj\Debug\Biblioteca.Entidades.csproj.AssemblyReference.cache
+C:\Users\wilso\Desktop\6 ciclo\labo07\Biblioteca.WPF\Biblioteca.Entidades\obj\Debug\Biblioteca.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\wilso\Desktop\6 ciclo\labo07\Biblioteca.WPF\Biblioteca.Entidades\obj\Debug\Biblioteca.Entidades.dll
+C:\Users\wilso\Desktop\6 ciclo\labo07\Biblioteca.WPF\Biblioteca.Entidades\obj\Debug\Biblioteca.Entidades.pdb

@@ -1,0 +1,505 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{238B24B2-2615-4665-84E4-BE6AF351B0B4}|Biblioteca.WPF\\Biblioteca.WPF.csproj|c:\\users\\wilso\\desktop\\6 ciclo\\labo07\\biblioteca.wpf\\biblioteca.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{238B24B2-2615-4665-84E4-BE6AF351B0B4}|Biblioteca.WPF\\Biblioteca.WPF.csproj|solutionrelative:biblioteca.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238B24B2-2615-4665-84E4-BE6AF351B0B4}|Biblioteca.WPF\\Biblioteca.WPF.csproj|c:\\users\\wilso\\desktop\\6 ciclo\\labo07\\biblioteca.wpf\\biblioteca.wpf\\wreporte.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{238B24B2-2615-4665-84E4-BE6AF351B0B4}|Biblioteca.WPF\\Biblioteca.WPF.csproj|solutionrelative:biblioteca.wpf\\wreporte.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238B24B2-2615-4665-84E4-BE6AF351B0B4}|Biblioteca.WPF\\Biblioteca.WPF.csproj|c:\\users\\wilso\\desktop\\6 ciclo\\labo07\\biblioteca.wpf\\biblioteca.wpf\\wreporte.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{238B24B2-2615-4665-84E4-BE6AF351B0B4}|Biblioteca.WPF\\Biblioteca.WPF.csproj|solutionrelative:biblioteca.wpf\\wreporte.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238B24B2-2615-4665-84E4-BE6AF351B0B4}|Biblioteca.WPF\\Biblioteca.WPF.csproj|C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\biblioteca.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{238B24B2-2615-4665-84E4-BE6AF351B0B4}|Biblioteca.WPF\\Biblioteca.WPF.csproj|solutionrelative:biblioteca.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238B24B2-2615-4665-84E4-BE6AF351B0B4}|Biblioteca.WPF\\Biblioteca.WPF.csproj|c:\\users\\wilso\\desktop\\6 ciclo\\labo07\\biblioteca.wpf\\biblioteca.wpf\\wdevolucion.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{238B24B2-2615-4665-84E4-BE6AF351B0B4}|Biblioteca.WPF\\Biblioteca.WPF.csproj|solutionrelative:biblioteca.wpf\\wdevolucion.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238B24B2-2615-4665-84E4-BE6AF351B0B4}|Biblioteca.WPF\\Biblioteca.WPF.csproj|c:\\users\\wilso\\desktop\\6 ciclo\\labo07\\biblioteca.wpf\\biblioteca.wpf\\wdevolucion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{238B24B2-2615-4665-84E4-BE6AF351B0B4}|Biblioteca.WPF\\Biblioteca.WPF.csproj|solutionrelative:biblioteca.wpf\\wdevolucion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238B24B2-2615-4665-84E4-BE6AF351B0B4}|Biblioteca.WPF\\Biblioteca.WPF.csproj|C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\biblioteca.wpf\\wprestamo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{238B24B2-2615-4665-84E4-BE6AF351B0B4}|Biblioteca.WPF\\Biblioteca.WPF.csproj|solutionrelative:biblioteca.wpf\\wprestamo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Biblioteca.Datos||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238B24B2-2615-4665-84E4-BE6AF351B0B4}|Biblioteca.WPF\\Biblioteca.WPF.csproj|C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\biblioteca.wpf\\wprestamo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{238B24B2-2615-4665-84E4-BE6AF351B0B4}|Biblioteca.WPF\\Biblioteca.WPF.csproj|solutionrelative:biblioteca.wpf\\wprestamo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2943979E-D18D-4C14-A9FF-113E9B502769}|Biblioteca.Negocio\\Biblioteca.Negocio.csproj|C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\biblioteca.negocio\\negocios\\prestamonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2943979E-D18D-4C14-A9FF-113E9B502769}|Biblioteca.Negocio\\Biblioteca.Negocio.csproj|solutionrelative:biblioteca.negocio\\negocios\\prestamonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238B24B2-2615-4665-84E4-BE6AF351B0B4}|Biblioteca.WPF\\Biblioteca.WPF.csproj|C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\biblioteca.wpf\\wsocios.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{238B24B2-2615-4665-84E4-BE6AF351B0B4}|Biblioteca.WPF\\Biblioteca.WPF.csproj|solutionrelative:biblioteca.wpf\\wsocios.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238B24B2-2615-4665-84E4-BE6AF351B0B4}|Biblioteca.WPF\\Biblioteca.WPF.csproj|C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\biblioteca.wpf\\wsocios.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{238B24B2-2615-4665-84E4-BE6AF351B0B4}|Biblioteca.WPF\\Biblioteca.WPF.csproj|solutionrelative:biblioteca.wpf\\wsocios.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2943979E-D18D-4C14-A9FF-113E9B502769}|Biblioteca.Negocio\\Biblioteca.Negocio.csproj|C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\biblioteca.negocio\\negocios\\socionegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2943979E-D18D-4C14-A9FF-113E9B502769}|Biblioteca.Negocio\\Biblioteca.Negocio.csproj|solutionrelative:biblioteca.negocio\\negocios\\socionegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238B24B2-2615-4665-84E4-BE6AF351B0B4}|Biblioteca.WPF\\Biblioteca.WPF.csproj|C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\biblioteca.wpf\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{238B24B2-2615-4665-84E4-BE6AF351B0B4}|Biblioteca.WPF\\Biblioteca.WPF.csproj|solutionrelative:biblioteca.wpf\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6981AED-E290-4AC3-A09A-7490869D4F19}|Biblioteca.Datos\\Biblioteca.Datos.csproj|C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\biblioteca.datos\\repositorios\\librodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6981AED-E290-4AC3-A09A-7490869D4F19}|Biblioteca.Datos\\Biblioteca.Datos.csproj|solutionrelative:biblioteca.datos\\repositorios\\librodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238B24B2-2615-4665-84E4-BE6AF351B0B4}|Biblioteca.WPF\\Biblioteca.WPF.csproj|C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\biblioteca.wpf\\wlibros.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{238B24B2-2615-4665-84E4-BE6AF351B0B4}|Biblioteca.WPF\\Biblioteca.WPF.csproj|solutionrelative:biblioteca.wpf\\wlibros.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238B24B2-2615-4665-84E4-BE6AF351B0B4}|Biblioteca.WPF\\Biblioteca.WPF.csproj|C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\biblioteca.wpf\\wlibros.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{238B24B2-2615-4665-84E4-BE6AF351B0B4}|Biblioteca.WPF\\Biblioteca.WPF.csproj|solutionrelative:biblioteca.wpf\\wlibros.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2943979E-D18D-4C14-A9FF-113E9B502769}|Biblioteca.Negocio\\Biblioteca.Negocio.csproj|C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\biblioteca.negocio\\negocios\\libronegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2943979E-D18D-4C14-A9FF-113E9B502769}|Biblioteca.Negocio\\Biblioteca.Negocio.csproj|solutionrelative:biblioteca.negocio\\negocios\\libronegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2943979E-D18D-4C14-A9FF-113E9B502769}|Biblioteca.Negocio\\Biblioteca.Negocio.csproj|C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\biblioteca.negocio\\excepciones\\reglanegocioexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2943979E-D18D-4C14-A9FF-113E9B502769}|Biblioteca.Negocio\\Biblioteca.Negocio.csproj|solutionrelative:biblioteca.negocio\\excepciones\\reglanegocioexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D55FCA-961D-4C46-8A08-310789F5F1D4}|Biblioteca.Entidades\\Biblioteca.Entidades.csproj|C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\biblioteca.entidades\\modelos\\detalleprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D55FCA-961D-4C46-8A08-310789F5F1D4}|Biblioteca.Entidades\\Biblioteca.Entidades.csproj|solutionrelative:biblioteca.entidades\\modelos\\detalleprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6981AED-E290-4AC3-A09A-7490869D4F19}|Biblioteca.Datos\\Biblioteca.Datos.csproj|C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\biblioteca.datos\\repositorios\\detalleprestamodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6981AED-E290-4AC3-A09A-7490869D4F19}|Biblioteca.Datos\\Biblioteca.Datos.csproj|solutionrelative:biblioteca.datos\\repositorios\\detalleprestamodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6981AED-E290-4AC3-A09A-7490869D4F19}|Biblioteca.Datos\\Biblioteca.Datos.csproj|C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\biblioteca.datos\\repositorios\\prestamodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6981AED-E290-4AC3-A09A-7490869D4F19}|Biblioteca.Datos\\Biblioteca.Datos.csproj|solutionrelative:biblioteca.datos\\repositorios\\prestamodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6981AED-E290-4AC3-A09A-7490869D4F19}|Biblioteca.Datos\\Biblioteca.Datos.csproj|C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\biblioteca.datos\\repositorios\\sociodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6981AED-E290-4AC3-A09A-7490869D4F19}|Biblioteca.Datos\\Biblioteca.Datos.csproj|solutionrelative:biblioteca.datos\\repositorios\\sociodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6981AED-E290-4AC3-A09A-7490869D4F19}|Biblioteca.Datos\\Biblioteca.Datos.csproj|C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\biblioteca.datos\\repositorios\\autordatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6981AED-E290-4AC3-A09A-7490869D4F19}|Biblioteca.Datos\\Biblioteca.Datos.csproj|solutionrelative:biblioteca.datos\\repositorios\\autordatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6981AED-E290-4AC3-A09A-7490869D4F19}|Biblioteca.Datos\\Biblioteca.Datos.csproj|C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\biblioteca.datos\\conexion\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6981AED-E290-4AC3-A09A-7490869D4F19}|Biblioteca.Datos\\Biblioteca.Datos.csproj|solutionrelative:biblioteca.datos\\conexion\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D55FCA-961D-4C46-8A08-310789F5F1D4}|Biblioteca.Entidades\\Biblioteca.Entidades.csproj|C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\biblioteca.entidades\\modelos\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D55FCA-961D-4C46-8A08-310789F5F1D4}|Biblioteca.Entidades\\Biblioteca.Entidades.csproj|solutionrelative:biblioteca.entidades\\modelos\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D55FCA-961D-4C46-8A08-310789F5F1D4}|Biblioteca.Entidades\\Biblioteca.Entidades.csproj|C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\biblioteca.entidades\\modelos\\socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D55FCA-961D-4C46-8A08-310789F5F1D4}|Biblioteca.Entidades\\Biblioteca.Entidades.csproj|solutionrelative:biblioteca.entidades\\modelos\\socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D55FCA-961D-4C46-8A08-310789F5F1D4}|Biblioteca.Entidades\\Biblioteca.Entidades.csproj|C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\biblioteca.entidades\\modelos\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D55FCA-961D-4C46-8A08-310789F5F1D4}|Biblioteca.Entidades\\Biblioteca.Entidades.csproj|solutionrelative:biblioteca.entidades\\modelos\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D55FCA-961D-4C46-8A08-310789F5F1D4}|Biblioteca.Entidades\\Biblioteca.Entidades.csproj|C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\biblioteca.entidades\\modelos\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D55FCA-961D-4C46-8A08-310789F5F1D4}|Biblioteca.Entidades\\Biblioteca.Entidades.csproj|solutionrelative:biblioteca.entidades\\modelos\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D55FCA-961D-4C46-8A08-310789F5F1D4}|Biblioteca.Entidades\\Biblioteca.Entidades.csproj|C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\biblioteca.entidades\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D55FCA-961D-4C46-8A08-310789F5F1D4}|Biblioteca.Entidades\\Biblioteca.Entidades.csproj|solutionrelative:biblioteca.entidades\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6981AED-E290-4AC3-A09A-7490869D4F19}|Biblioteca.Datos\\Biblioteca.Datos.csproj|c:\\users\\wilso\\desktop\\6 ciclo\\labo07\\biblioteca.wpf\\biblioteca.datos\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|6185191f-1008-4fb2-a715-3a4e4f27e610"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "wReporte.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.WPF\\wReporte.xaml.cs",
+              "RelativeDocumentMoniker": "Biblioteca.WPF\\wReporte.xaml.cs",
+              "ToolTip": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.WPF\\wReporte.xaml.cs",
+              "RelativeToolTip": "Biblioteca.WPF\\wReporte.xaml.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAgwHMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T03:24:26.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "wReporte.xaml",
+              "DocumentMoniker": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.WPF\\wReporte.xaml",
+              "RelativeDocumentMoniker": "Biblioteca.WPF\\wReporte.xaml",
+              "ToolTip": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.WPF\\wReporte.xaml",
+              "RelativeToolTip": "Biblioteca.WPF\\wReporte.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-01T03:24:05.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.WPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Biblioteca.WPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.WPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Biblioteca.WPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T23:57:11.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "wDevolucion.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.WPF\\wDevolucion.xaml.cs",
+              "RelativeDocumentMoniker": "Biblioteca.WPF\\wDevolucion.xaml.cs",
+              "ToolTip": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.WPF\\wDevolucion.xaml.cs",
+              "RelativeToolTip": "Biblioteca.WPF\\wDevolucion.xaml.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAgwKUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T03:15:44.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Biblioteca.Datos",
+              "DocumentMoniker": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.Datos\\Biblioteca.Datos.csproj",
+              "RelativeDocumentMoniker": "Biblioteca.Datos\\Biblioteca.Datos.csproj",
+              "ToolTip": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.Datos\\Biblioteca.Datos.csproj",
+              "RelativeToolTip": "Biblioteca.Datos\\Biblioteca.Datos.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-01T03:04:09.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.WPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Biblioteca.WPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.WPF\\MainWindow.xaml",
+              "RelativeToolTip": "Biblioteca.WPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-30T23:57:13.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "wDevolucion.xaml",
+              "DocumentMoniker": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.WPF\\wDevolucion.xaml",
+              "RelativeDocumentMoniker": "Biblioteca.WPF\\wDevolucion.xaml",
+              "ToolTip": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.WPF\\wDevolucion.xaml",
+              "RelativeToolTip": "Biblioteca.WPF\\wDevolucion.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-01T03:15:13.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "wPrestamo.xaml",
+              "DocumentMoniker": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.WPF\\wPrestamo.xaml",
+              "RelativeDocumentMoniker": "Biblioteca.WPF\\wPrestamo.xaml",
+              "ToolTip": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.WPF\\wPrestamo.xaml",
+              "RelativeToolTip": "Biblioteca.WPF\\wPrestamo.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-01T01:18:24.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "wPrestamo.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.WPF\\wPrestamo.xaml.cs",
+              "RelativeDocumentMoniker": "Biblioteca.WPF\\wPrestamo.xaml.cs",
+              "ToolTip": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.WPF\\wPrestamo.xaml.cs",
+              "RelativeToolTip": "Biblioteca.WPF\\wPrestamo.xaml.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAuwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T01:18:49.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PrestamoNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.Negocio\\Negocios\\PrestamoNegocio.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Negocio\\Negocios\\PrestamoNegocio.cs",
+              "ToolTip": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.Negocio\\Negocios\\PrestamoNegocio.cs",
+              "RelativeToolTip": "Biblioteca.Negocio\\Negocios\\PrestamoNegocio.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAowJAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T00:44:24.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LibroNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.Negocio\\Negocios\\LibroNegocio.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Negocio\\Negocios\\LibroNegocio.cs",
+              "ToolTip": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.Negocio\\Negocios\\LibroNegocio.cs",
+              "RelativeToolTip": "Biblioteca.Negocio\\Negocios\\LibroNegocio.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAowGAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T00:41:18.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "wSocios.xaml",
+              "DocumentMoniker": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.WPF\\wSocios.xaml",
+              "RelativeDocumentMoniker": "Biblioteca.WPF\\wSocios.xaml",
+              "ToolTip": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.WPF\\wSocios.xaml",
+              "RelativeToolTip": "Biblioteca.WPF\\wSocios.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-01T01:06:30.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "wSocios.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.WPF\\wSocios.xaml.cs",
+              "RelativeDocumentMoniker": "Biblioteca.WPF\\wSocios.xaml.cs",
+              "ToolTip": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.WPF\\wSocios.xaml.cs",
+              "RelativeToolTip": "Biblioteca.WPF\\wSocios.xaml.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAowKcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T01:06:59.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.WPF\\App.config",
+              "RelativeDocumentMoniker": "Biblioteca.WPF\\App.config",
+              "ToolTip": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.WPF\\App.config",
+              "RelativeToolTip": "Biblioteca.WPF\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-10-01T00:45:13.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SocioNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.Negocio\\Negocios\\SocioNegocio.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Negocio\\Negocios\\SocioNegocio.cs",
+              "ToolTip": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.Negocio\\Negocios\\SocioNegocio.cs",
+              "RelativeToolTip": "Biblioteca.Negocio\\Negocios\\SocioNegocio.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T00:42:38.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "wLibros.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.WPF\\wLibros.xaml.cs",
+              "RelativeDocumentMoniker": "Biblioteca.WPF\\wLibros.xaml.cs",
+              "ToolTip": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.WPF\\wLibros.xaml.cs",
+              "RelativeToolTip": "Biblioteca.WPF\\wLibros.xaml.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAowMIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T00:52:29.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LibroDatos.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.Datos\\Repositorios\\LibroDatos.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Datos\\Repositorios\\LibroDatos.cs",
+              "ToolTip": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.Datos\\Repositorios\\LibroDatos.cs",
+              "RelativeToolTip": "Biblioteca.Datos\\Repositorios\\LibroDatos.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAtwBcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T00:29:39.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "wLibros.xaml",
+              "DocumentMoniker": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.WPF\\wLibros.xaml",
+              "RelativeDocumentMoniker": "Biblioteca.WPF\\wLibros.xaml",
+              "ToolTip": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.WPF\\wLibros.xaml",
+              "RelativeToolTip": "Biblioteca.WPF\\wLibros.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-01T00:51:56.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReglaNegocioException.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.Negocio\\Excepciones\\ReglaNegocioException.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Negocio\\Excepciones\\ReglaNegocioException.cs",
+              "ToolTip": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.Negocio\\Excepciones\\ReglaNegocioException.cs",
+              "RelativeToolTip": "Biblioteca.Negocio\\Excepciones\\ReglaNegocioException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T00:37:51.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DetallePrestamo.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.Entidades\\Modelos\\DetallePrestamo.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Entidades\\Modelos\\DetallePrestamo.cs",
+              "ToolTip": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.Entidades\\Modelos\\DetallePrestamo.cs",
+              "RelativeToolTip": "Biblioteca.Entidades\\Modelos\\DetallePrestamo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T00:18:53.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DetallePrestamoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.Datos\\Repositorios\\DetallePrestamoDatos.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Datos\\Repositorios\\DetallePrestamoDatos.cs",
+              "ToolTip": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.Datos\\Repositorios\\DetallePrestamoDatos.cs",
+              "RelativeToolTip": "Biblioteca.Datos\\Repositorios\\DetallePrestamoDatos.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T00:31:44.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PrestamoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.Datos\\Repositorios\\PrestamoDatos.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Datos\\Repositorios\\PrestamoDatos.cs",
+              "ToolTip": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.Datos\\Repositorios\\PrestamoDatos.cs",
+              "RelativeToolTip": "Biblioteca.Datos\\Repositorios\\PrestamoDatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T00:30:42.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SocioDatos.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.Datos\\Repositorios\\SocioDatos.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Datos\\Repositorios\\SocioDatos.cs",
+              "ToolTip": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.Datos\\Repositorios\\SocioDatos.cs",
+              "RelativeToolTip": "Biblioteca.Datos\\Repositorios\\SocioDatos.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAuwK4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T00:30:04.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AutorDatos.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.Datos\\Repositorios\\AutorDatos.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Datos\\Repositorios\\AutorDatos.cs",
+              "ToolTip": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.Datos\\Repositorios\\AutorDatos.cs",
+              "RelativeToolTip": "Biblioteca.Datos\\Repositorios\\AutorDatos.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T00:29:02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ConexionBD.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.Datos\\Conexion\\ConexionBD.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Datos\\Conexion\\ConexionBD.cs",
+              "ToolTip": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.Datos\\Conexion\\ConexionBD.cs",
+              "RelativeToolTip": "Biblioteca.Datos\\Conexion\\ConexionBD.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T00:28:06.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Prestamo.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.Entidades\\Modelos\\Prestamo.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Entidades\\Modelos\\Prestamo.cs",
+              "ToolTip": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.Entidades\\Modelos\\Prestamo.cs",
+              "RelativeToolTip": "Biblioteca.Entidades\\Modelos\\Prestamo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA+wBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T00:18:42.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Socio.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.Entidades\\Modelos\\Socio.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Entidades\\Modelos\\Socio.cs",
+              "ToolTip": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.Entidades\\Modelos\\Socio.cs",
+              "RelativeToolTip": "Biblioteca.Entidades\\Modelos\\Socio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T00:18:29.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.Entidades\\Modelos\\Libro.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Entidades\\Modelos\\Libro.cs",
+              "ToolTip": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.Entidades\\Modelos\\Libro.cs",
+              "RelativeToolTip": "Biblioteca.Entidades\\Modelos\\Libro.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T00:18:10.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.Entidades\\Modelos\\Autor.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Entidades\\Modelos\\Autor.cs",
+              "ToolTip": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.Entidades\\Modelos\\Autor.cs",
+              "RelativeToolTip": "Biblioteca.Entidades\\Modelos\\Autor.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T00:17:55.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.Entidades\\Class1.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Entidades\\Class1.cs",
+              "ToolTip": "C:\\Users\\wilso\\Desktop\\6 ciclo\\labo07\\Biblioteca.WPF\\Biblioteca.Entidades\\Class1.cs",
+              "RelativeToolTip": "Biblioteca.Entidades\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T00:02:00.154Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
